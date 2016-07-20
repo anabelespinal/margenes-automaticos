@@ -1,0 +1,28 @@
+/* Escribe aqui tu CSS */
+.general {
+	box-sizing: border-box;
+	border: 2px solid black;
+	width: 1000px;
+	height: 500px;
+}
+.caja {
+	box-sizing: border-box;
+	border: 8px solid yellow;
+	width: 200px;
+	height: 200px;
+	margin: 10px;
+}
+.centro {
+	box-sizing: border-box;
+    border: 8px solid yellow;
+	width: 200px;
+	height: 200px;
+	margin-left: 400px;
+}
+.parrafo {
+	margin: 25px 20px;
+	text-align: center;
+}
+.parraf {
+	margin: 25px 20px
+}
